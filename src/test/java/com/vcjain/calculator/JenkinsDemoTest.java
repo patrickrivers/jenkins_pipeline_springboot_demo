@@ -14,7 +14,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 @Ignore
 public class JenkinsDemoTest
 {
-    private static String Base_Url = "https://www.facebook.com";
+    public class MyClass{ /* ... */ }
     private WebDriver driver;
 
     @Before
